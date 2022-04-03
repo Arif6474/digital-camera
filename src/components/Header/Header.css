@@ -1,0 +1,23 @@
+.nav{
+    background-color: rgb(44, 43, 43);
+   justify-content: center;
+
+
+}
+
+.nav a {
+    text-decoration: none;
+    color: #fff0f0;
+    border: 2px solid #ffa500;
+    border-radius: 5px ;
+    padding: 5px;
+    margin: 5px 20px;
+    
+
+}
+
+.nav a:hover{
+    background-color: #f5ad39;
+    color:#ffffff
+    
+}
