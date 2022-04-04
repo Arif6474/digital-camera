@@ -44,7 +44,8 @@ const Dashboard = () => {
     ]
     return (
         <div className="chart-container ">
-            
+           <div>
+             <h2 className="chart-title">Investment, Revenue & Sales</h2> 
         <AreaChart width={730} height={250} data={data}
   margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
   <defs>
@@ -68,8 +69,9 @@ const Dashboard = () => {
   <Area type="monotone" dataKey="revenue" stroke="#82ca9d" fillOpacity={1} fill="url(#colorPv)" />
   <Area type="monotone" dataKey="sell" stroke="#ff7300" fillOpacity={1} fill="url(#colorPv)" />
 </AreaChart>
-
-
+</div> 
+<div>
+<h2 className="chart-title">Investment, Revenue & Sales</h2> 
 <RadarChart outerRadius={90} width={730} height={250} data={data}>
   <PolarGrid />
   <PolarAngleAxis dataKey="subject" />
@@ -80,7 +82,7 @@ const Dashboard = () => {
   <Tooltip/>
   <Legend />
 </RadarChart>
-
+</div>
 </div>
     );
 };

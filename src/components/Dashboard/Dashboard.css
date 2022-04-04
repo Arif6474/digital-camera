@@ -2,3 +2,9 @@
     display: flex;
     margin: 50px;
 }
+.chart-title{
+    font-size: 20px;
+    color: rgb(37, 82, 48);
+    margin-bottom: 15px;
+    font-weight: bold;
+}

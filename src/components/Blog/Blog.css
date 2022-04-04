@@ -1,0 +1,19 @@
+.container{
+    margin: 30px auto;
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(39, 16, 20);
+
+}
+
+.context{
+    margin-bottom: 20px;
+    color: rgb(235, 248, 44);
+    font-weight: 600;
+    font-size:25px;
+}
+.details{
+    font-size: 15px;
+    color:rgb(255, 255, 255)
+}
