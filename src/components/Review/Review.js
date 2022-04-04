@@ -1,10 +1,11 @@
 import React from 'react';
+import './Review.css'
 
 const Review = () => {
     return (
-        <div>
-            <h3>this is a review</h3>
-        </div>
+        <h1>this is a review</h1>
+            
+       
     );
 };
 

@@ -1,0 +1,29 @@
+.camera-description{
+    padding-top:50px;
+}
+.camera-title{
+    color: rgb(2, 40, 51);
+    margin-bottom: 20px;
+    padding-top: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.camera-text{
+    font-size: 15px;
+    padding:20px;
+    opacity: .8;
+}
+
+
+.camera-name{
+    font-size: 22px;
+    font-weight: bold;
+    opacity: .9;
+}
+
+@media (min-width: 576px) {
+   .home-container{
+       min-width: 576px;
+   }
+}
