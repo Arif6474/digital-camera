@@ -13,7 +13,7 @@ const Home = () => {
    
     <div className="col-md-6">
       <div className="camera-description">
-        <h5 className="camera-title">DIGITAL CAMMERA WORLD</h5>
+        <h5 className="camera-title">DIGITAL CAMERA WORLD</h5>
         <p className="camera-text">The Canon <span className="camera-name">EOS 2000D DSLR Camera</span> lets you take photos packed with
           detail, and Full HD videos that brings action to life. The standard
           zoom lens included with the camera is perfect for use in a wide range

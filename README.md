@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Customer Reviews
+- React Router
+- React Recharts
+- Product Reviews
+- Custom Hooks
+
 ## Available Scripts
 
 In the project directory, you can run:
