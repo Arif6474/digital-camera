@@ -1,8 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
+import useReviews from "../../hooks/Hooks";
+import UserReview from "../UserReview/UserReview";
 import './Home.css'
 
 const Home = () => {
-  return (<div>
+  const [reviews, setReviews] = useReviews();
+  return (
+  <div>
     <div className="card mb-3" >
   <div className="row g-8">
    
@@ -28,16 +33,15 @@ const Home = () => {
     </div>
   </div>
 </div>
+<h2 className= "customers-review">Customers Reviews</h2>
+<div className="review-container">
+  
+            {
+                reviews.slice(0, 3).map((review) => <UserReview key={review.id} review = {review}></UserReview> )
+            }
+        </div>  
 
-
-
-
-
-
-
-
-
-
+        <Link className="all-reviews" to='/review' >See All Reviews</Link>
 
 </div>
   );

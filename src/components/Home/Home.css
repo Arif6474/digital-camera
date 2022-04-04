@@ -2,7 +2,7 @@
     padding-top:50px;
 }
 .camera-title{
-    color: rgb(255, 147, 7);
+    color: #ff4107;
     margin-bottom: 20px;
     padding-top: 20px;
     font-weight: bold;
@@ -22,4 +22,21 @@
     font-weight: bold;
     opacity: .9;
     color:rgb(7, 61, 105);
+}
+.customers-review{
+    border-bottom: 3px solid #ff3705;
+    width: 300px;
+    margin: 20px auto;
+}
+.all-reviews{
+    text-decoration: none;
+    background-color: #ff3705;
+    color: white;
+    padding: 5px;
+   
+    border-radius: 3px;
+}
+.all-reviews:hover{
+    background-color: rgb(34, 119, 8);
+    color: white;
 }

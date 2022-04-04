@@ -27,8 +27,10 @@
     padding: 10px;
 }
 .rating{
-    color: #fdae05
+    color: #fdae05;
+    font-size: 14px;
 }
 .user-rating{
-    color: #021425
+    color: #021425;
+    font-size: 17px;
 }
