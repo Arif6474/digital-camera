@@ -2,7 +2,7 @@ import React from "react";
 import './Home.css'
 
 const Home = () => {
-  return (
+  return (<div>
     <div className="card mb-3" >
   <div className="row g-8">
    
@@ -29,6 +29,17 @@ const Home = () => {
   </div>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+</div>
   );
 };
 

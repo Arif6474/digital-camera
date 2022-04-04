@@ -1,0 +1,44 @@
+[
+    {
+      "id": "624adb622e78237f5773f514",
+      "picture": "profile_user1.jpg",
+      "rating": 5,
+      "name": "Anne Holland",
+      "about": "While the popularity of mirrorless cameras is constantly rising with each passing year (and the interest for compact cameras and DSLRs is in slow decline) we are still far from reaching that point of time in which they could be considered irrelevant and thus a lot of manufacturers are still set on releasing new models in both of these categories in 2018 as well. Today, we have one of the newest representatives of affordable DSLR cameras and that is the Canon EOS 2000D.\r\n"
+    },
+    {
+      "id": "624adb629ff2cd2f4bf647f5",
+      "picture": "user2.jpg",
+      "rating": 4.5,
+      "name": "Hooper Ruiz",
+      "about": "We can tell that the 2000D’s 9-point AF system has been around for some time; it’s really starting to show its age now. Grouped around the centre of the frame, 9 points don’t give you a whole lot to work with, so you’ll probably find you spend much time focusing and recomposing if your subjects are anywhere off-centre.\r\n"
+    },
+    {
+      "id": "624adb62c06ff4cec5d460de",
+      "picture": "user3.jpg",
+      "rating": 5,
+      "name": "Marion Bell",
+      "about": "Externally the Canon EOS 2000D is virtually identical to the 1300D that it replaces, which we reviewed exactly two years ago. The control and button placement is as good as identical, and so too is the camera’s physical size and weight. At 129mm wide, 101.3mm high and 77.6mm deep, the 2000D has exactly the same dimensions, and also weighs almost the same at 475g ready to shoot, a whole 10g lighter than the Canon 1300D. That makes it 30g heavier than a Nikon D3400.\r\n"
+    },
+    {
+      "id": "624adb62a0c2d4341b0a5724",
+      "picture": "user4.jpg",
+      "rating": 4.5,
+      "name": "Ellen Mccoy",
+      "about": "The 2000D doesn’t feel premium, but it’s helped a little by a textured coating around the reasonably chunky grip. Buttons are both well-sized and well-placed, with a large mode dial on the top of the camera. A bunch of mostly self-explanatory buttons can be found on the rear of the camera, to control its various settings.\r\n"
+    },
+    {
+      "id": "624adb6210645cf97c824932",
+      "picture": "user5.jpg",
+      "rating": 5,
+      "name": "Haley Harmon",
+      "about": "A primary selling point of the Canon EOS 2000D to first time DSLR buyers is its ease of use. Nothing has changed in this respect from the 1300D, but that’s no bad thing. The 2000D still gets dedicated ISO and white balance buttons on the rear panel – physical controls you won’t find on a Nikon D3400 – while other key shooting settings like file quality and exposure modes can be accessed easily by pressing the Q button which activates the quick-access menu.\r\n"
+    },
+    {
+      "id": "624adb6210645cf97c86512",
+      "picture": "user6.jpg",
+      "rating": 5,
+      "name": "Haley Harmonpo",
+      "about": "Since it’s only a relatively minor upgrade on the 1300D, the 2000D ends up being a bit of a damp squib. It’s disappointing not to see a little more pizzazz and, sadly for Canon, the Nikon D3400 is probably the more sensible choice if you’re looking for your very first DSLR.\r\n"
+    }
+  ]
